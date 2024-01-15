@@ -23,9 +23,29 @@ def run_timing():
             print("Por favor, insira um valor numérico válido.")
 
 
-# Chama a função e armazena o resultado
-resultado = run_timing()
+# resultado = run_timing()
+# if resultado is not None:
+# print(f"A média de quilômetros por dia é {resultado:.2f}")
 
-# Verifica se a função retornou um resultado válido antes de imprimir
-if resultado is not None:
-    print(f"A média de quilômetros por dia é {resultado:.2f}")
+
+def get_name():
+    while True:
+        nome = input("Entre seu nome: ")  # obter nome
+        if nome.isalpha():
+            return nome
+        else:
+            print("Por favor, insira um nome válido (sem números ou caracteres especiais).")
+
+
+def print_triangle(nome):
+    for index, letter in enumerate(nome):  # imprimir o triangulo
+        print(nome[:index + 1])
+
+
+def name_triangle():
+    print("Bem-vindo ao Triângulo de Nomes!")
+    nome = get_name()
+    print_triangle(nome)
+
+
+#name_triangle()
