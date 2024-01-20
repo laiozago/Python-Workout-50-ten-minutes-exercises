@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77619649-6644-4477-ae34-cff2f088ce00" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-07-Ubbi-Dubbi/ubbi-dubbi-BTE-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-07-Ubbi-Dubbi/ubbi-dubbi-BTE-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-07-Ubbi-Dubbi/ubbi-dubbi-BTE-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-07-Ubbi-Dubbi/ubbi-dubbi-BTE-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-07-Ubbi-Dubbi/ubbi-dubbi-BTE-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-07-Ubbi-Dubbi/ubbi-dubbi-BTE-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-07-Ubbi-Dubbi/ubbi-dubbi-BTE-3_alternative_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-07-Ubbi-Dubbi/ubbi-dubbi-BTE-3_alternative_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-08-Sorting-a-string/sorting-a-string-BTE-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-08-Sorting-a-string/sorting-a-string-BTE-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-08-Sorting-a-string/sorting-a-string-BTE-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-08-Sorting-a-string/sorting-a-string-BTE-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-08-Sorting-a-string/sorting-a-string-BTE-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-02-Strings/Exer-08-Sorting-a-string/sorting-a-string-BTE-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-09-First-last/firstlast-BTE-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum_BTE_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum_BTE_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum_BTE_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum_BTE_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum_BTE_2_alternative_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum_BTE_2_alternative_solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum_BTE_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum_BTE_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum_BTE_3_alternative_solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/2nd-Loop/CHPT-03-Lists-and-tuples/Exer-10-Summing-anything/mysum_BTE_3_alternative_solution.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "assignee": "laiozago"
+    }
+  ],
+  "lastFilter": {
+    "assignee": "laiozago"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d53961bf-ce8c-4034-bddf-77f402d44d0d" />
+        <option name="url" value="https://github.com/nihathalici/Python-Workout-50-Ten-minute-Exercises.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2b4QQUjHs8q4ip2hxrM0Sr5bcUB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.email.executor": "Run",
+    "Python.firstlast-BTE-1.executor": "Run",
+    "Python.firstlast-BTE-2.executor": "Run",
+    "Python.firstlast-BTE-4.executor": "Run",
+    "Python.firstlast-BTE-6.executor": "Run",
+    "Python.firstlast.executor": "Run",
+    "Python.mysum.executor": "Run",
+    "Python.mysum_BTE_1.executor": "Run",
+    "Python.ubbi-dubbi-BTE-1.executor": "Run",
+    "Python.ubbi-dubbi-BTE-2.executor": "Run",
+    "Python.ubbi-dubbi-BTE-3.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "<unknown>"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77619649-6644-4477-ae34-cff2f088ce00" name="Changes" comment="" />
+      <created>1705471854782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705471854782</updated>
+    </task>
+    <servers />
+  </component>
+</project>
